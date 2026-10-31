@@ -1,0 +1,22 @@
+Closer — Proprietary Freeware License
+Copyright © 2026 Parth Mudgal. All rights reserved.
+Effective 31 October 2026.
+
+Parth Mudgal grants you non-exclusive, non-transferable permission to download,
+install and use the official Closer application free of charge, for personal use
+or use at work. You may keep a backup for your own use.
+
+Closer is proprietary software. No open-source license or right to the source
+code is granted. No ownership of the code, name or artwork is transferred.
+
+Redistribution, modification, resale and commercial repackaging require prior
+written permission from Parth Mudgal, except where applicable law provides
+otherwise. Share a link to the official download instead of mirroring the app.
+These terms do not restrict rights that cannot legally be restricted.
+
+Save important work before quitting apps. Closer sends normal quit requests and
+cannot guarantee that every app preserves every document. Closer is provided as
+available without a promise of uninterrupted operation, future updates or a
+particular result. Nothing here excludes rights or protections that apply under law.
+
+Support and permission requests: parthmudgal15105@gmail.com
